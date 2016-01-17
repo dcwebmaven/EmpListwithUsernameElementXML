@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE Employees>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"xsi:noNamespaceSchemaLocation="Employees6O2.xsd">
+<Employee>
+<First>John</First>
+<Last>Smith</Last>
+<UserName>raven</UserName>
+<Phone Type="Home">1-800-123-4567</Phone>
+<Birthday>1960-05-25</Birthday>
+<HourlyRate>35.85</HourlyRate>
+</Employee>
+<Employee>
+<First>Amy</First>
+<Last>Smith</Last>
+<UserName>alive</UserName>
+<Phone Type="Work">202-453-6868</Phone>
+<Birthday>1968-08-17</Birthday>
+<HourlyRate>50.00</HourlyRate>
+</Employee>
+</Employees>
